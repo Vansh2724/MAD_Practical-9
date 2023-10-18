@@ -18,4 +18,5 @@
     <style name="cardview">
         <item name="android:backgroundTint">#F2F3FE</item>
     </style>
+
 </resources>

@@ -13,6 +13,6 @@
     </style>
 
     <style name="cardview">
-        <item name="android:backgroundTint">@color/dark_grey</item>
+        <item name="android:backgroundTint">#262935</item>
     </style>
 </resources>
